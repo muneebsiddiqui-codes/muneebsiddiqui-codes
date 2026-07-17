@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Muneeb Siddiqui</h1>
 <h3 align="center">💻 BS Information Technology Student | Python Developer in Progress</h3>
 
@@ -8,19 +7,19 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 BS Information Technology Student
 
-💻 Passionate about Programming and Software Development
+ Passionate about Programming and Software Development
 
-🌱 Currently Learning
+ Currently Learning
 - Python
 - Data Structures & Algorithms
 - Git & GitHub
 - Software Engineering
 
-🎯 My Goals
+ My Goals
 - Build professional Python projects
 - Learn Full Stack Development
 - Explore Artificial Intelligence
@@ -29,7 +28,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
@@ -37,7 +36,7 @@
 
 ---
 
-# 📚 Currently Working On
+#  Currently Working On
 
 - Python Projects
 - Strengthening Programming Fundamentals
@@ -46,7 +45,7 @@
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 <a href="https://github.com/muneebsiddiqui-codes">
@@ -56,7 +55,7 @@
 
 ---
 
-# 💭 Quote
+#  Quote
 
 > **"Consistency beats talent when talent doesn't stay consistent."**
 
